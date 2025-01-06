@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Aastha0717" /> </p>
 
-- 🔭 I’m currently working on projects 
+- 🔭 I’m currently working on projects in Wev Development and Python.
 
-- 🌱 I’m currently learning **Advanced RPA Development**
+- 🌱 I’m currently learning **Advanced Python and Data Science**
 
-- 👯 I’m looking to collaborate on **content creation and social media strategies**
+- 👯 I’m looking for much more pioneering projects to brush up my skills!
 
-- 📝 I regularly write articles on [Instagram](https://www.instagram.com/graciensylph/)
-
-- 💬 Ask me about **content writing, social media marketing, and storytelling**
+- 💬 Ask me about **Web Development and Python Programming**
 
 - 📫 How to reach me **aastharajput2004@gmaail.com**
 
