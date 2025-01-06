@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aastha Rajput</h1>
-<h3 align="center">Creative Storyteller and Social Media Strategist</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **content writing, social media marketing, and storytelling**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **aastharajput2004@gmaail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aastha-rajput-b01961212)
 
@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="your-github-username" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="your-github-username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="Aastha Rajput" /></p>
