@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aastha Rajput</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking for much more pioneering projects to brush up my skills!
 
-- 💬 Ask me about **Web Development and Python Programming**
+- 💬 Ask me about **Python Programming and Web Development**
 
 - 📫 How to reach me **aastharajput2004@gmaail.com**
 
@@ -30,7 +30,7 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Python" src=" https://img.shields.io/badge/Python-8A2BE2" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
