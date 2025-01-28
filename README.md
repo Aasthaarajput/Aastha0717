@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on projects in Wev Development and Python.
+- 🔭 I’m currently working on projects in Python.
 
 - 🌱 I’m currently learning **Advanced Python and Data Science**
 
