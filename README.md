@@ -1,3 +1,5 @@
+<body style="background-color:powderblue;">
+
 <h1 align="center">Hi 👋, I'm Aastha Rajput</h1>
 <h3 align="center">Python Developer</h3>
 
@@ -37,3 +39,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/aastha-rajput-b01961212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
+</body>
