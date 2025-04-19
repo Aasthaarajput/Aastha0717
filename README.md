@@ -1,7 +1,7 @@
 <body style="background-color:powderblue;">
 
 <h1 align="center">Hi 👋, I'm Aastha Rajput</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Data Analyst</h3>
 
 
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for much more pioneering projects to brush up my skills!
 
-- 💬 Ask me about **Python Programming and Web Development**
+- 💬 Ask me about **Data Analysis and Web Development**
 
 - 📫 How to reach me **aastharajput2004@gmaail.com**
 
@@ -33,6 +33,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=PowerBI&logoColor=white" />
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
