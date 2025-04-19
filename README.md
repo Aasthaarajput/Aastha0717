@@ -33,7 +33,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Power BI" src="[https://img.shields.io/badge/-PowerBI-13aa52?style=flat-square&logo=PowerBI&logoColor=white](https://icons8.com/icon/Ny0t2MYrJ70p/power-bi-2021)" />
+  <img alt="Power BI" src="https://img.shields.io/badge/logo-PowerBI-blue?logo=PowerBI" />
 
 </p>
 
