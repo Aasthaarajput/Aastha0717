@@ -1,44 +1,83 @@
-<body style="background-color:powderblue;">
+# 👋 Greetings! I'm Aastha Rajput  
 
-<h1 align="center">Hi 👋, I'm Aastha Rajput</h1>
-<h3 align="center">Data Analyst</h3>
+## 🚀 About Me  
 
+I’m an **Aspiring Data Scientist** with a strong foundation in **Electronics and Communication Engineering (ECE)** and a passion for solving real-world problems using **data and software**. I specialize in **Python development**, **web technologies**, and **data visualization**, and I bring a unique perspective by combining hardware knowledge with software solutions.
 
+💡 **Interests:** Data Science, Python Programming, Web Development, Electronics and Communication Projects
 
-- 🔭 I’m currently working on projects in Python.
+📫 **Let’s Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/aastha-rajput2004)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Aasthaarajput)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:aasthaaarajput@gmail.com)  
 
-- 🌱 I’m currently learning **Advanced Python and Data Science**
+---
 
-- 👯 I’m looking for much more pioneering projects to brush up my skills!
+## 🛠️ Technical Skills  
 
-- 💬 Ask me about **Data Analysis and Web Development**
-
-- 📫 How to reach me **aastharajput2004@gmaail.com**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aastha-rajput-b01961212)
-
-
-<h3>When I code, I rely on</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-43853d?style=flat-square&logo=SQL&logoColor=white" />
-  <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-CB3837?style=flat-square&logo=NoSQL&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/logo-PowerBI-blue?logo=PowerBI" />
-
-</p>
-
-<h3 align="left">Connect with me:</h3>
+### **Programming & Data**  
 <p align="left">
-<a href="https://linkedin.com/in/aastha-rajput-b01961212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-6DB33F?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Automation-FFA500?logo=python&logoColor=white">
 </p>
-</body>
+
+### **Web Development**  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+</p>
+
+### **Data Visualization & BI Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-404D59?logo=python&logoColor=white">
+</p>
+
+### **Tools & Technologies**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
+</p>
+
+### **Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/English-Proficient-blue">
+  <img src="https://img.shields.io/badge/Hindi-Native-green">
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aasthaarajput&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aasthaarajput&theme=radical" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasthaarajput&layout=compact&theme=radical" alt="Top Languages">
+  <img width="48%" src="https://komarev.com/ghpvc/?username=Aasthaarajput&color=blue" alt="Profile Views">
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- 🔍 **Super Store Sales Dashboard** – Built an interactive Power BI dashboard for sales insights  
+- 🐍 **Python Automation Scripts** – Automated repetitive tasks to save time  
+- 📊 **Data Analysis Projects** – Visualized and analyzed data using Pandas, Matplotlib, and Seaborn
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to collaboration in **data science**, **automation**, and **web-based analytics**.  
+If you’re working on something exciting, feel free to reach out!
+
+---
+
+🔥 *"Bridging software with real-world data to build better solutions."* 🚀  
